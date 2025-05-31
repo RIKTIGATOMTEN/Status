@@ -1,0 +1,9 @@
+framework: Xenshop
+name: Status
+version: 1.4
+author: RiktigaTomten
+description: Låter dig ställa en custom status på din bott. Som tex discord.gg/xenshop
+
+mainfile: ./script/main.js
+mainconfig: ./config/config.json
+type: addon
