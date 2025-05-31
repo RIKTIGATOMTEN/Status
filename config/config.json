@@ -1,0 +1,18 @@
+{
+  "aktiverad": true,
+  "statusTyp": "WATCHING",
+  "tillgängligaTyper": [
+    "PLAYING",
+    "WATCHING",
+    "LISTENING",
+    "COMPETING",
+    "STREAMING"
+  ],
+  "statusMeddelanden": [
+    "{medlemmar} medlemmar",
+    "Hej på dig!!<3 {uptime}"
+  ],
+  "fastStatus": "",
+  "bytesIntervall": 6000,
+  "aktiveraByte": true
+}
